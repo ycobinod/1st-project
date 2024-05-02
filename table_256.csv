@@ -1,0 +1,40 @@
+,DS Division,Unnamed: 0
+0,Research project,Details
+1,Foundry,
+2,2.5D packaging technology,□ Realized logic chip and four HBM chips into one package to operate it like one semiconductor chip
+3,'I-Cube4',□ Supplied electricity stably and realized ultra-thin electrical wires applying silicon interposer
+4,May 2021,-Applied semiconductor process/manufacturing knowhow that prevents the deformation of thin interposers 100μm
+5,,thick
+6,,□ Reduced production time and enhanced yield with our distinctive structure that has excellent thermal release
+7,,performance
+8,8nm RF process,□ Radio Frequency (RF) process for 5G communication that supports sub-6GHz and millimeter frequency
+9,June 2021,"-Provides small, low-power, high quality communication with one-chip solution that supports multi-channel and multi-"
+10,,antenna
+11,,□ Improved performance of RF with the application of RF-exclusive semiconductor device 'RFeFET (RF extremeFET)' that
+12,,we developed in house
+13,,"-Maximized electrons’ movement characteristics by physically stimulating the neighboring areas of channels, which"
+14,,are electrons’ moving path
+15,,"□ Power efficiency increased by 35%, analogue circuit area decreased by 35% compared to the previous generation 14nm"
+16,,RF process
+17,,-Total number of transistors of chips decreased with the drastic improvement of RFeFET performance
+18,2.5D packaging technology,"□ 2.5D solution 'Hybrid Cube', which applies silicon interposer technology and hybrid-substrate structure"
+19,'H-Cube',"-Logic chips and high-bandwidth memory (HBM) are placed on top of a silicon interposer, integrating up to 6HBMs"
+20,November 2021,"-The hybrid substrate is a dual structure in which the high-end main substrate at the top connects logic/memory chips,"
+21,,and the subsidiary substrate at the bottom that is easy to implement in large-area connects the system board
+22,,"-Minimized the size of the substrate by decreasing the pitch of solder ball, which electrically connects two substrates"
+23,,-Applied chip analysis technology to stably supply power while minimizing signal distortion and loss
+24,,"-Specialized for semiconductors for data center, AI, and network products that require high-performance and large-"
+25,,area packaging technology
+26,World’s first 3nm process that,□ World’s first mass production of 3nm process that adopts Gate-All-Around (GAA) transistor technology
+27,adopts GAA technology,"-Maximized power efficiency and performance by implementing ‘MBCFET’, our in-house GAA technology that utilizes"
+28,June 2022,nanosheets
+29,,"-1st-generation 3nm process reduced power consumption by 45%, improved performance by 23%, and reduced"
+30,surface area by 16% compared to 5nm,
+31,"□ GAA technology overcomes the performance limitations of FinFET, allowing to continue to make smaller chips",
+32,"-The gate surrounds all four faces of the channel, which enables finer control of current flow and reduces operating",
+33,voltage and power consumption,
+34,-The structure in which the channels are piled up vertically boosts performance as it increases channel width per unit,
+35,area and allows greater amount of current to flow,
+36,"-The width of channels can be adjusted, giving better design flexibility",
+37,□ Providing verified 3nm design infrastructure and services with ecosystem partners,
+38,"□ Planning to expand adoption into high-performance, low-power system semiconductors for HPC, mobile SoCs, etc.",

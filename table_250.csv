@@ -1,0 +1,55 @@
+,DX Division,Unnamed: 0
+0,Research project,Details
+1,,□ Galaxy Buds 2 Pro (August 2022)
+2,,-Kernel-type premium TWS that offers high-quality 24bit Hi-Fi audio and comfortable fit
+3,,-Size (W x H x D): Earbuds21.6mm x 19.9mm x 18.7mm
+4,,Cradle50.2mm x 50.1mm x 27.7mm
+5,,"-Platform (H/W, S/W): BES2700YP 1Chip solution, RTOS"
+6,, First Samsung Buds to apply 24bit/48kHz Hi-Fi technologies to offer a high-quality audio experience by minimizing
+7,,"loss of sound quality of the original recording; Intelligence ANC which adopts All High-SNR MIC, noise cancelling"
+8,,"solution, and voice detect technology"
+9,, Strengthened listening experience of the immersive 360 Audio feature via multi-channel audio and enhanced
+10,,technology that tracks head movements
+11,, Provides clear and upgraded call quality through improved VPU and personalized beamforming technology
+12,,-Offers comfortable and stable fit thanks to the ergonomic design
+13,, Improved fit through smaller size—15% size reduction compared to previous model—and enhanced structure of vent
+14,,holes
+15,,-Strengthened user experience via easy connection between Galaxy Devices
+16,," Expanded the Auto Switch feature from smartphones, tablets, and watches to TVs, and the transition between"
+17,,devices is made easier and faster
+18,Network,
+19,RAN S/W Package–June 2021,□ SVR21B NR vDU SW package (June 2021)
+20,,-TDD-based C-Band vDU
+21,, Flexible base station upgrade without H/W change and resource allocation
+22,,* vDU (virtual DU): realizing the function of 5G base station by developing commercial server-based S/W
+23,Basestations,□ Developed MMU Beam Forming SoC (February 2021)
+24,February 2021–November 2022,"-SoC performs functions that Beam Forming FPGA, within MMU board, performs"
+25,,-30% more power efficient than previous model (Maximum power consumption: less than 40W)
+26,□ Developed 5 types of ORAN* RU for the US (September 2021),
+27,"-Defined DU-RU standard interface, which allows to connect any vendor DU to any vendor RU",
+28,"-AWS/PCS, two types of 700/850 4T4R 40W, two types of 320W, C-Band 8T8R 320W",
+29,□ AWS/PCS Dual Band 16T16R FDD MMU for North America (October 2021),
+30,-The Company’s first commercialized 16T16R FDD dual band MMU product that applies our in-house-developed chip,
+31,□ Domestic 3.5GHz NR 32T32R TDD MMU (February 2022),
+32,-Applied Mechanical PSA (phase shift antenna) for the first time,
+33,* Automatically controls the antenna angle (tilt 0-12°) inside the MMU with a motor,
+34,□ Developed high-performance RFIC + DFE integrated chip (April 2022),
+35,* RFIC (Radio Frequency Integrated Circuit): high-frequency integrated circuit suitable for wireless communication,
+36,* DFE (Digital Front End): last stage of digital signal processing for communication,
+37,□ Two types of FDD RU for Dish (Dual Band/Tri Band RU) (September 2022),
+38,-Developed 5G FDD RU product that complies with the O-RAN standard and supports multiple frequency bands at the,
+39,same time,
+40,"* frequency supported by RU: n71(600MHz), n29(700MHz), n66(AWS: 1.7GHz/2.1GHz), n70(AWS: 1.7GHz/1.9GHz)",
+41,□ Gen.3 Dual Band NR 2T2R AU (October 2022),
+42,-Developed the world’s first Dual Band (28GHz+39GHz) AU,
+43,-Upgraded product performance by increasing output and capacity twofold with the same size compared to the existing,
+44,2nd generation AU,
+45,□ Domestic 3.5GHz NR 64T64R MMU (November 2022),
+46,"-Developed 64T64R Massive MIMO MMU, which was commercialized in the domestic market for the first time",
+47,-Increased antenna elements twofold and output by 2.7 times compared to the existing 32T32R MMU (old model) for the,
+48,domestic market,
+49,□ 3.5GHz CBRS NR Strand Smallcell (March 2023),
+50,-Developed Strand Small Cell (small cell solution designed to be installed on cables) for the first commercial use,
+51,"-Cell solution that integrates baseband, radio, and antenna into a single form factor",
+52,-Equipped with the Company’s newest in-house chipset—2nd generation 5G modem SoC—and its small size enables,
+53,installation on cables,

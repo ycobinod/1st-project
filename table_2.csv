@@ -1,0 +1,29 @@
+,Unnamed: 0,Type of,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Main
+0,Organization,,Item,Specific usage,Purchase price,Portion1),
+1,,purchase,,,,,supplier(s)
+2,,Production,,,,,"Qualcomm,"
+3,,,Mobile AP,CPU,"26,402",14.9%,
+4,,materials,,,,,"MediaTek, etc."
+5,,,,,,,"Semco,"
+6,,Production,,,,,
+7,,,Camera module,Camera for HHP,"16,662",9.4%,"Powerlogics,"
+8,,materials,,,,,
+9,,,,,,,etc.
+10,DX Division,Production,,Color picture signaler,,,"CSOT, AUO,"
+11,,,Display panel,,"11,224",6.3%,
+12,,materials,,"for TV, monitor",,,"BOE, etc."
+13,,Production,,,,,
+14,,,Others,-,"123,132",69.4%,
+15,,materials,,,,,
+16,,,Sub total,,"177,420",100.0%,
+17,,,,,,,"Soulbrain,"
+18,,Production,,,,,
+19,,,Chemical,Disk processing,"7,106",16.5%,DongWoo Fine-
+20,,materials,,,,,
+21,,,,,,,"Chem, etc."
+22,,Production,,,,,"SK Siltron,"
+23,DS Division,materials,Wafer,Semiconductor disk,"6,705",15.6%,"Siltronic, etc."
+24,,Production,,,,,
+25,,,Others,-,"29,284",67.9%,
+26,,materials,,,,,
+27,,,Sub total,,"43,095",100.0%,

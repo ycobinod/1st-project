@@ -1,0 +1,61 @@
+,DS Division,Unnamed: 0
+0,Research project,Details
+1,Exynos,"□ Launched Exynos 2100,5G-integrated premium mobile AP"
+2,January 2021–March 2023,"-Applied state-of-the-art 5nm EUV process and the latest CPU/GPU, enhancing performance significantly"
+3,,"-Optimal design improves performance compared to previous model: more than 30% for CPU, more than 40% for"
+4,,GPU
+5,,"-Enhanced on-device AI function, performs 26 trillion operations per second"
+6,,"-Saves power consumption by maximum 20%, features its own power management solution AMIGO"
+7,,"-Supports ultrahigh-frequency 5G network, operates maximum 6 image sensors"
+8,,□ Released Exynos W920 built on EUV process for wearable devices
+9,,-Improved performance and power-efficiency by applying advanced 5nm EUV process and design technology
+10,,-Comes in the smallest package currently available for wearables by applying the most advanced packaging
+11,,technologies
+12,,-Boasts 20% more efficient CPU performance and 10 times better graphics performance than its predecessor (Exynos
+13,,9110) with the application of the newest ARM cores
+14,,-Improved power consumption of the processor by 97% under AOD (Always On Display) mode by applying low-power
+15,,cores for display
+16,,"□ Released Exynos Auto T5123, communications chip for automotives that provide 5G communications service"
+17,,"-Supports download speed of 5.1Gb/sec, enables seamless access high-capacity, high-definition content even while"
+18,,driving
+19,,-Equipped with the latest 5G-based multi-mode communication chip that supports both 5G single net and LTE
+20,,combined net
+21,,"□ Released Exynos Auto V7, processor for automotive infotainment"
+22,,"-Applies the latest automotive technologies, including Neural Processing Unit (NPU), technology that corrects bad"
+23,,"pixel and lens distortion of camera sensors, and image compression technology"
+24,,"-GPU supports four independent displays, including digital dashboard, Center Information Display (CID), and Head Up"
+25,,"Display (HUD), and up to 12 camera sensors"
+26,,-Equipped with security processor which offers technology that safely stores and prevents physical replication of key
+27,,information of the car
+28,,□ Released premium mobile AP 'Exynos 2200'
+29,,"-Adopted the next-generation GPU Xclipse jointly developed with AMD, maximized gaming performance and power"
+30,,efficiency
+31,,-Enabled Ray Tracing technology based on hardware on mobile devices—a first in the industry
+32,,-Strengthened performance and security by adopting the core based on the latest ARM CPU architecture 'Armv9'
+33,,"-Enhanced NPU performance by more than twofold compared to the previous model, significantly enhanced machine"
+34,,learning performance
+35,,□ Secured internationally standardized 5G non-terrestrial networks (NTN) modem technology for satellite communications
+36,,"-Reflects the latest standard (Release-17) of 3GPP, which unites telecommunications standard development"
+37,,organizations
+38,,-Adopted technologies that accurately predict low Earth orbit satellite locations and minimize frequency offsets
+39,,"-Supports two-way transmission of large-capacity data, including text messaging and video sharing"
+40,,"□ Unveiled Exynos Connect U100, an ultra-wideband (UWB) chipset for short-range wireless communications"
+41,,-Provides an accuracy of single-digit centimeters and 5-degrees and under
+42,,"-Low-power, one-chip solution optimized for various mobile, automotive, and IoT devices"
+43,,-Equipped with a scrambled timestamp sequence (STS) function and a secure hardware encryption engine to prevent
+44,,external hacking
+45,,"-Certified by FiRa Consortium, an organization that certifies UWB products for conformity to interoperability standards"
+46,LSI,"□ Power management IC for DDR5 DRAM modules (S2FPD01, S2FPD02, S2FPC01)"
+47,January 2021–March 2023,"-Essential for the next-generation device performance improvement and power saving, three types of power"
+48,,management IC
+49,"-Applies our own technology of reducing power consumption and overheating, improves operational efficiency up to",
+50,91%,
+51,-Continued expansion of the lineup for power management IC for memory and strengthen technology leadership,
+52,□ Power management IC for processor for automotive infotainment (S2VPS01),
+53,"-Certified with ASIL-B, a safety standard for automotive systems, and strengthened functional safety",
+54,"-Strengthened stability of the system, including heat prevention and auto-diagnostic functions",
+55,□ Released all-in-one fingerprint security IC for biometric payment cards (S3B512C),
+56,"-Combines hardware security chip (SE, Secure Element), fingerprint sensor, and Secure Processor in one IC",
+57,"-Received globally accredited certifications in security, EAL6+ from Common Criteria (CC) and global online card",
+58,payment technical standard (EMVCo) and proved security in line with Mastercard’s Biometric Evaluation Plan,
+59,Summary.,

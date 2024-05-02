@@ -1,0 +1,37 @@
+,Unnamed: 0,Type of,Issuance,Date of,Total nominal,Interest,Rating,Maturity,Payment,Management
+0,Issuing company,,,,,,,,,
+1,,securities,method,Issuance,amount,rate,(rating institution),date,status,company
+2,,,,,,,"Aa2(Moody's),",,Partial,
+3,Samsung Electronics,Corporate bonds,Public offering,"Oct 2,1997","130,380",7.7,,"Oct 1, 2027",,Goldman Sachs et al.
+4,,,,,,,AA-(S&P),,redemption,
+5,,,,,,,"Baa1 (Moody's),",,,
+6,"Harman International Industries, Inc",Corporate bonds,Public offering,"May 11, 2015","521,520",4.2,,"May 15, 2025",Unredeemed,J.P.Morgan et al.
+7,,,,,,,A- (S&P),,,
+8,,,Private,,,,,,,
+9,"Dowooinsys Co., Ltd",Corporate bonds,,"Feb 28, 2020","23,000",0.5,-,"Feb 28, 2025",Unredeemed,-
+10,,,placement,,,,,,,
+11,,,Private,,,,,,,
+12,"Dowooinsys Co., Ltd",Corporate bonds,,"Dec 8, 2022","42,000",0.5,-,"Dec 8, 2027",Unredeemed,-
+13,,,placement,,,,,,,
+14,,,Private,,,,,,,
+15,SEMES,Commercial paper,,"Jan 30, 2023","30,000",4.1,A1,"Feb 28, 2023",Redeemed,-
+16,,,placement,,,,,,,
+17,,,Private,,,,,,,
+18,SEMES,Commercial paper,,"Jan 30, 2023","50,000",4.0,A1,"Feb 28, 2023",Redeemed,-
+19,,,placement,,,,,,,
+20,,,Private,,,,,,,
+21,SEMES,Commercial paper,,"Feb 10, 2023","70,000",3.9,A1,"Mar 10, 2023",Redeemed,-
+22,,,placement,,,,,,,
+23,,,Private,,,,,,,
+24,SEMES,Commercial paper,,"Feb 28, 2023","1,000",4.0,A1,"Mar 28, 2023",Redeemed,-
+25,,,placement,,,,,,,
+26,,,Private,,,,,,,
+27,SEMES,Commercial paper,,"Feb 28, 2023","9,000",4.0,A1,"Mar 28,2023",Redeemed,-
+28,,,placement,,,,,,,
+29,,,Private,,,,,,,
+30,SEMES,Commercial paper,,"Mar 10, 2023","70,000",4.1,A1,"Apr 10, 2023",Unredeemed,-
+31,,,placement,,,,,,,
+32,,,Private,,,,,,,
+33,SEMES,Commercial paper,,"Mar 28, 2023","45,000",4.0,A1,"Apr 28, 2023",Unredeemed,-
+34,,,placement,,,,,,,
+35,Total,-,-,-,"991,900",-,-,-,-,-

@@ -1,0 +1,51 @@
+,DS Division,Unnamed: 0
+0,Research project,Details
+1,Memory,
+2,DRAM for mobile,□ Development of LPDDR5X DRAM
+3,November 2021–October 2022,-Improved speed by over 30% and power efficiency by approximately 20% compared to previous model
+4,,"-Based on 14nm; expansion of application areas that use high performance, low power consumption memory from"
+5,,"mobile to server and automotives, with expansion to up to 64GB per memory package"
+6,,-Verified the industry-leading operating speed (8.5Gbps) by mounting the 8GB LPDDR5X DRAM package on
+7,,Qualcomm’s Snapdragon mobile platform
+8,DRAM for server,□ Development of high-capacity DDR5 memory applying HKMG process—an industry first
+9,March 2021–December 2022,-Realization of 512GB DDR5 module with the application of High-K Metal Gate and 8-stack TSV
+10,,-Reduced power consumption by around 13% and more than double performance compared to the existing process
+11,,"-Planning to apply it in the next-generation computing, super computers, and high capacity data centers"
+12,,□ Development of the highly advanced 12nm-class DRAM
+13,,"-Developed industry’s first 12nm-class 16Gb DDR5 DRAM; offers high-performance and low-power, which are"
+14,,optimized for the next-generation computing services
+15,,-Reduced power consumption by approximately 23% and enhanced productivity by approximately 20% compared to
+16,,the existing model
+17,,"-Upon mass production in 2023, it is expected to provide memory solutions optimized for our customers’ next-"
+18,,"generation systems and to expand application areas in datacenters, AI, next-generation computing, etc."
+19,Graphic DRAM,"□ Development of GDDR6 DRAM, industry's one of the fastest graphic DRAMs"
+20,July 2022–November 2022,-First in the industry to deliver speeds up to 24Gbps by applying 3rd generation 10nm-class (1z) process
+21,,"-Met customer needs by enhancing performance by more than 30% compared to the previous product, leading to"
+22,,processing speeds of up to 1.1TB per second; supporting operation voltage of 1.1V; and improving power efficiency
+23,,by 20%
+24,,"-Secured compatibility by being fully compliant with specifications of JEDEC, an international semiconductor"
+25,,standardization body
+26,,"-Expanded applications, including next-generation graphics cards, AI, and HPC"
+27,,"□ Development of GDDR6W, graphics memory that applies advanced packaging technology"
+28,,-GDDR6W is manufactured by introducing Fan-Out Wafer-Level Packaging (FOWLP) technology—a construction and
+29,,stacking technology—without developing a new memory die
+30,,-Increased performance (bandwidth) and capacity by twofold while maintaining the same packaging size of GDDR6
+31,HBM DRAM,□ Developed world’s first AI HBM-PIM with an AI engine
+32,February 2021–October 2022,"-More than two times the performance compared to previous HBM2, system energy reduced by approximately 70%."
+33,,"-Unveiled academic paper in Feb 2021 at conference held by ISSCC, a highly reputable organization in the"
+34,semiconductor industry,
+35,-Enables application without changing the system by using existing memory interface,
+36,-Cooperate with data center and AI customers on standardization of PIM and establishing eco system.,
+37,□ Expanded memory product lines that integrate an AI engine (performance evaluation of HBM-PIM and development of,
+38,AXDIMM/LPDDR5-PIM),
+39,-Unveiled the case in which the HBM-PIM developed last February was incorporated in the system (integration with,
+40,the Xilinx Alveo AI accelerator system boosts overall system performance by 2.5 times while reducing energy,
+41,consumption by more than 60%),
+42,"-AXDIMM, a DRAM module with an AI engine, offers twice the performance and a 40% decrease in energy usage",
+43,-Unveiled LPDDR5-PIM that integrated mobile DRAM and PIM technology,
+44,□ Developed AI-accelerator equipped with HBM-PIM and GPU,
+45,-Materialized HBM-PIM Cluster by installing HBM-PIM memory in AMD’s GPU accelerator,
+46,"-Compared to existing GPU accelerators, on average, the addition of HBM-PIM improved performance by more than",
+47,double and reduced energy consumption by more than 50%,
+48,"-In preparation to provide software that supports accelerators equipped with HBM-PIM, so consumers are expected to",
+49,be able to use PIM memory solutions in an integrated software environment,

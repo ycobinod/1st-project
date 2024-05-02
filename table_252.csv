@@ -1,0 +1,60 @@
+,DS Division,Unnamed: 0
+0,Research project,Details
+1,NAND,□ Mass production of 8th generation V-NAND
+2,November 2022,"-Mass production of 1Tb 8th generation V-NAND, which is among the highest capacities in the world"
+3,,-Significantly enhanced bit productivity per wafer and secured one of the industry’s highest bit density
+4,,"-Enhanced performance by 1.2 times compared to existing model, featuring an input and output (I/O) speed of up to"
+5,,2.4Gbps with the adoption of a next-generation interface
+6,,-Expected to lead the trend of expanding storage capacity in next-generation enterprise servers and extend use into
+7,,"the automotive market, in which reliability is critical"
+8,eStorage,□ Development of highly advanced UFS 4.0
+9,–May 2022,-Improved reading/writing speed by approximately twofold compared to UFS 3.1 product
+10,,"-Enhanced power efficiency by approximately 46% for processing the same amount of data, which allows longer hours"
+11,,of use
+12,,-Improved a function that reads and saves customer’s important data by adopting the latest security technologies
+13,,"-Expected to expand into consumer devices, such as smartphones, automotives, and VR/AR"
+14,SSD for server,□ Mass production of high-performance OCP SSD specialized for data centers
+15,February 2021–July 2022,"-Mass production of OCP SSD, the first in the industry for 6th-generation V-NAND"
+16,,"-Satisfies performance, power efficiency, reliability, and security demanded by the data center industry"
+17,,-Contributes to cost reduction and carbon emission reduction with industry’s most power efficient feature
+18,,□ Mass production of industry’s highest performing SAS 24Gbps SSD for server
+19,,-Supports speed that is around two times faster than the previous generation SSD
+20,,-Provides high capacity from 800GB to 30.72TB based on 6th generation V-NAND
+21,,-Expected to reduce server operation cost and carbon emission via a 40% improvement in power efficiency
+22,,□ Industry’s first mass production of next-generation ZNS SSD for company server
+23,,"-Applies ZNS technology, which categorizes and saves data by zone depending on characteristics"
+24,,-Lifespan and maximum utilization of SSD capacity increased compared to existing SSDs
+25,,"-Contributes to enhancing the efficiency of next-generation servers—in areas such as AI, big data, and IoT—as well as"
+26,,"storage systems, while expanding the foundation for ZNS SSD through various open source projects"
+27,,□ Development of PCIe 5.0-based high-performance SSD PM1743
+28,,-Improved reading/writing speed by approximately twofold and power efficiency by approximately 30% compared to
+29,,PCIe 4.0-based SSD
+30,,-Stability of server operation guaranteed with the support of dual-port and application of latest security technologies
+31,,□ Development of '2nd generation smart SSD' with upgraded processing functionality
+32,,"-Enhances processing functionality by twofold and cuts processing time by over 50%, energy consumption by up to"
+33,,"70%, and CPU utilization by up to 97%"
+34,,"-Processes data directly, thereby improving system performance and energy efficiency at the same time"
+35,,"-Actively address various market needs, including database and video transcoding"
+36,,-Lead standardization of computational storage and increase development of next-generation storage products
+37,SSD for Client,"□ Mass production of PM9C1a, a high-performance PC SSD equipped with a 5nm controller"
+38,January 2023,-Elevated performance with a new 5nm controller and 7th generation V-NAND
+39,,-Enhanced speed by up to 1.8 times and power efficiency by up to 70% vs the previous generation
+40,,-Supports device authentication and verification technology with strengthened security solutions such as the new
+41,,adoption of the Device Identifier Composition Engine (DICE) security standard
+42,Brand SSD,□ Global launch of SATA SSD 870 EVO for consumers
+43,January 2021–August 2022,"-Latest V-NAND and controller included, intelligent turbolight technology"
+44,,"-Highest durability in the industry, run time enhanced by more than 30%"
+45,"-Five models in 250GB to 4TB range, introduced in steps in Korea, US, Germany, and China",
+46,"□ Launched NVMe SSD 980, which boasts high performance and is economical.",
+47,"-6th-generation V-NAND, maximum 6 times the speed compared to SATA SSD",
+48,"-DRAM-less design to save cost, applied optimization technology for controllers and firmware",
+49,"-Heat-control feature, applied to high-end products",
+50,"-Power efficiency enhanced by 56%, compared to 970 EVO, allowing “good consumption” for consumers",
+51,□ Released portable SSD 'T7 Shield' for experts that offers both performance and durability,
+52,-Built with dust and water resistance and drop resistance up to 3m,
+53,"-Transmits data stably without performance degradation, including when recording and editing high-resolution videos",
+54,□ Unveiled high-performance SSD '990 PRO' optimized for gaming,
+55,-Offers unparalleled performance by featuring the latest V-NAND technology and a new proprietary controller,
+56,-Enhanced speed by up to 55% and power efficiency by up to 50% compared to previous model,
+57,"-Offers optimal performance for an environment in which ultra-high speed data processing is required, such as high-",
+58,performance graphic games and 4K/8K high-resolution videos,

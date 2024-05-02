@@ -1,0 +1,43 @@
+,DS Division,Unnamed: 0
+0,Research project,Details
+1,EUV,□ Mass production of 14nm EUV DDR5 DRAM
+2,-October 2021,-Enhanced productivity by approximately 20% with multilayer EUV implementation and realization of industry’s highest
+3,,DRAM bit density
+4,,-Enhanced speed by twofold compared to DDR4 and improved power consumption by approximately 20% compared
+5,,to previous process
+6,CXL,□ Development of industry’s first CXL-based DRAM memory
+7,May 2021-October 2022,-Next-generation memory solution to meet the needs of high capacity data centers; overcomes physical limitations of
+8,,"DRAM modules, revolutionary expansion of capacity bandwidth becomes possible"
+9,,"-Supports interface converting, error management, etc. through CXL controller"
+10,,-Development of controller and software technology optimized for CXL DRAM memory by collaborating with data
+11,,centers and server and chipset companies
+12,,□ Development of industry’s first open-source software solution for CXL memory
+13,,-Enables expansion of system memory’s performance/capacity by enabling the main memory and the CXL memory to
+14,,work seamlessly
+15,,□ Development of industry’s first high-capacity 512GB CXL DRAM
+16,,"-Enhanced capacity of CXL DRAM by four times, which allows expansion of over tens of terabytes per server"
+17,,"-Equipped with CXL-exclusive controller, reducing data latency by 1/5"
+18,,□ Development of CXL-based PNM solution for high-capacity AI models
+19,,-PNM’s (Processing-near-Memory) computational functions are performed closer to the memory to reduce the
+20,,bottleneck between the CPU and memory data transference and to improve system performance
+21,,"-Enhanced performance by approximately twofold in applications, such as recommendation systems or in-memory"
+22,,"databases, that require high memory bandwidth"
+23,Multi-chip,□ Mass production of industry’s best performing uMCP5 (LPDDR5 + UFS3.1) multi-chip package
+24,June 2021,"-Speed upgrade by 1.5 times compared to the existing LPDDR4X, 2 times compared to UFS2.2"
+25,,-Spearhead popularization of 5G by installing them into low- to mid-priced 5G smartphones
+26,Brand Card,□ Released a new micro SD card product with enhanced performance and stability
+27,September 2021-May 2022,-'PRO Plus' provides 1.6 times faster read speed and 1.3 times faster write speed than the previous generation
+28,,-'EVO Plus' provides 1.3 times faster read speed than the previous generation
+29,,"-With improved performance and a design that offers better protection against external shocks, not only general"
+30,,"consumers, but also creators who make high-quality contents such as 4K UHD videos, are looking forward to it"
+31,,□ Released memory card 'PRO Endurance' with enhanced performance and durability
+32,,-Adopts high-quality server-level NAND durability that allows up to 16 years of continuous recording time
+33,,"-Optimized for high-resolution (4K, Full HD) video recording equipment, such as surveillance video and black box"
+34,,"-Keeps stable recording performance even in tough conditions, applies 6-proof protection"
+35,,"-Supports speed of Class 10, UHS Class U3, and video speed of Class V30; can continuously record Full HD ᆞ 4K"
+36,,high-resolution videos
+37,Automotives,□ Mass production of memory total solutions for automotives
+38,December 2021,-256GB SSD and 2GB DDR4/GDDR6 for IVI; 2GB GDDR6 and 128GB UFS for AD
+39,,-Supplies high performance SSDs and graphics DRAM delivering server-level performance and capacity; and secures
+40,high stability that is required in the automotive semiconductor market (operation is guaranteed in the -40°C-105°C,
+41,range),

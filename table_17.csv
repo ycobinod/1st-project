@@ -1,0 +1,12 @@
+,Seller,Unnamed: 0,Sales channel,Unnamed: 1,Unnamed: 2,Consumer
+0,,,Retailer,,,
+1,,,Dealer,Retailer,,
+2,,Regional sales office,Distributor Dealer,Retailer,,
+3,Production,,"Telecommunication service provider, automotive OEM",,,
+4,,,,,,Consumer
+5,subsidiaries,,Direct sales (B2B and online channels),,,
+6,,,,Retailer,,
+7,,,Regional,,,
+8,,Regional distribution office,Dealer,Retailer,,
+9,,,sales office,,,
+10,,,Distributor,Dealer,Retailer,

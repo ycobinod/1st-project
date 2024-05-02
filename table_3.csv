@@ -1,0 +1,13 @@
+,Unnamed: 0,Type of,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Main
+0,Organization,Item,Specific usage,Purchase price,Portion1),,
+1,,purchase,supplier(s),,,,
+2,,,,,,,
+3,SDC,"Productionmaterials",FPCA,Circuit,"4,323",20.7%,"BH, YPElectronics,etc."
+4,,"Productionmaterials",Window,Tempered glass,"3,036",14.6%,"Apple, Biel, etc."
+5,,"Productionmaterials",Others,-,"13,490",64.7%,
+6,,Sub total,"20,849",100.0%,,,
+7,Harman,"Productionmaterials",SoC,Chips for vehicles,"1,972",15.9%,"Nvidia, Intel,etc."
+8,,"Productionmaterials",Others,-,"10,430",84.1%,
+9,,Sub total,"12,402",100.0%,,,
+10,Others,"Productionmaterials",-,-,103,-,
+11,Total,"253,869",-,,,,
